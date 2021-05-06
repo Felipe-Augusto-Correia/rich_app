@@ -22,3 +22,9 @@ samples, guidance on mobile development, and a full API reference.
 ***
 ![RichApp](https://user-images.githubusercontent.com/51971892/117162310-088d1f80-ad99-11eb-8ae8-d4f08ee20e75.PNG)
 
+***
+
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+
+![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+

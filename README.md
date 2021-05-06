@@ -2,6 +2,8 @@
 
 My first Flutter App with the help of **https://www.appbrewery.co/** course.
 
+Meu primeiro App feito em **Flutter** com a ajuda do curso da **App Brewery.** 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

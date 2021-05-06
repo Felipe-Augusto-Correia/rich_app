@@ -1,6 +1,6 @@
 # Rich App
 
-A new Flutter project.
+My first Flutter App with the help of **https://www.appbrewery.co/** course.
 
 ## Getting Started
 
